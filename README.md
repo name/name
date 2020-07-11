@@ -1,16 +1,12 @@
-### Hi there 👋
+![](https://i.imgur.com/4M7IWwP.gif)
+# 👋 Hi!
+Thank you for stopping by my profile. Most of my work is private but feel free to check out the parts that are public! (May not be finished..)
+<br><br>
+☕ Wanna chat? 👉 @ me on <a href="https://twitter.com/charliemaddex">Twitter</a>
+<br><br>
+<details>
+  <summary><b>🔭 2020 goal</b></summary>
+  I want to make a game this year.<br><br>I'm currently working on creating a Discord Integrated Social World — hoping to combine communities to help people find a sense of community.
+</details>
 
-<!--
-**name/name** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://i.imgur.com/4M7IWwP.gif)

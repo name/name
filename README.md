@@ -4,7 +4,7 @@
 
 - 💬 You can chat with or ask me about **cryptography, software development, computer security,** or **game anticheat**.
 
-- 📫 You can email me at **charlie** [at] **maddex** [dot] **co**.
+- 📫 You can email me at **eth** [at] **riseup** [dot] **net**.
 
 <p align="center">
 <a href="https://twitter.com/charliemaddex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsjhalt" height="20" width="20" /></a>

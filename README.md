@@ -18,6 +18,7 @@ If you are contacting me regarding a security issue, please encrypt your communi
   
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
+
 xsFNBF4FOvUBEADp3HF8dmycLth179Qy06Vj/RH7Fwj43yAb1UYlDVK4sO6LB6Bq
 jN+zW0xCl7BuOP0F4WHZE3+rtXXjtEf++V5Uoz6+NWu6d+c4tzLKVjIZ79LQ7JdQ
 sdi+ki4pANBkG9ZuOdIFF8t/tktbP03FuoVIw9AE8qNBRtO6OM9ytMqWC3t1Qr6X

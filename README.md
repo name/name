@@ -96,9 +96,10 @@ AIlnNG+bi9w2lZEajuPfWUXhirAhsut9EX4MGRWQGxiSqcdvl8+Rh8T1QODDR1L6
 <details>
   <summary><strong>Key Details</strong></summary>
 
-**Fingerprint:** 20E4 984E 608D BF6C 822D C563 C7E5 0F10 52E2 4437
 
 **UserID:** Charlie Maddex
+
+**Fingerprint:** 20E4 984E 608D BF6C 822D C563 C7E5 0F10 52E2 4437
 
 **Other Information:** This key was generated on a FIPS 140-2 level 3 validated card. This means that physical possession of the access card and its PIN are needed for message decryption.
 </details>

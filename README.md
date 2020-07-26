@@ -1,12 +1,104 @@
-![](https://i.imgur.com/4M7IWwP.gif)
-# 👋 Hi!
-Thank you for stopping by my profile. Most of my work is private but feel free to check out the parts that are public! (May not be finished..)
-<br><br>
-☕ Wanna chat? 👉 @ me on <a href="https://twitter.com/charliemaddex">Twitter</a>
-<br><br>
+<h1 align="center">Hi 👋, I'm Charlie</h1>
+
+- 🔭 I’m currently working on [stuff](https://github.com/name/stuff).
+
+- 💬 You can chat with or ask me about **cryptography, software development, computer security,** or **game anticheat**.
+
+- 📫 You can email me at **charlie** [at] **maddex** [dot] **co**.
+
+<p align="center">
+<a href="https://twitter.com/charliemaddex" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="itsjhalt" height="20" width="20" /></a>
+</p>
+
+### PGP
+If you are contacting me regarding a security issue, please encrypt your communications using PGP.
+
 <details>
-  <summary><b>🔭 2020 goal</b></summary>
-  I want to make a game this year.<br><br>I'm currently working on creating a Discord Integrated Social World — hoping to combine communities to help people find a sense of community.
+  <summary><strong>PGP Public Key</strong></summary>
+  
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+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
+=96Jq
+-----END PGP PUBLIC KEY BLOCK-----
+```
 </details>
 
-![](https://i.imgur.com/4M7IWwP.gif)
+<details>
+  <summary><strong>Key Details</strong></summary>
+
+**Fingerprint:** 20E4 984E 608D BF6C 822D C563 C7E5 0F10 52E2 4437
+
+**UserID:** Charlie Maddex
+
+**Other Information:** This key was generated on a FIPS 140-2 level 3 validated card. This means that physical possession of the access card and its PIN are needed for message decryption.
+</details>

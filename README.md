@@ -7,9 +7,11 @@
 - 📫 You can email me at **eth** [at] **riseup** [dot] **net**.
 
 <p align="center">
+
+</p>
+
 ### Statistics 📊
 [![Statistics](https://github-readme-stats.vercel.app/api?username=name&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&hide=contribs)](https://github.com/name)
-</p>
 
 ### PGP
 If you are contacting me regarding a security issue, please encrypt your communications using PGP.

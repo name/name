@@ -4,7 +4,7 @@
 
 - 💬 You can chat with or ask me about **cryptography, software development, computer security,** or **game anticheat**.
 
-- 📫 You can email me at **eth** [at] **riseup** [dot] **net**.
+- 📫 You can email me at **charlie** [at] **maddex** [dot] **dev**.
 
 <p align="center">
 

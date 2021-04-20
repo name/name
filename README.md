@@ -1,15 +1,3 @@
-<h1 align="center">Hi 👋, I'm Charlie</h1>
-
-- 🔭 I’m currently working on [stuff](https://github.com/name/stuff).
-
-- 💬 You can chat with or ask me about **cryptography, software development, computer security,** or **game anticheat**.
-
-- 📫 You can email me at **charlie** [at] **maddex** [dot] **dev**.
-
-<p align="center">
-
-</p>
-
 ### Statistics 📊
 [![Statistics](https://github-readme-stats.vercel.app/api?username=name&show_icons=true&icon_color=805AD5&text_color=666666&bg_color=ffffff00&hide_title=true&include_all_commits=true&count_private=true&hide_border=true&hide=contribs)](https://github.com/name)
 

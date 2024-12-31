@@ -5,7 +5,7 @@
       <br>
       <br>
       <br>
-      systems engineer, infra, ml.
+      consultant, infra/ml, researcher.
       <br>
       <br>
       to verify that who you're talking to is actually me, feel free to <a href="https://github.com/name/name/blob/master/challenge.md">challenge my identity</a> at any time.
